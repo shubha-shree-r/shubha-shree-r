@@ -1,4 +1,4 @@
-<p align="center"><img src=https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif width="auto" height=100></p>
+<p align="center"><img width="50%" src="Hello-Im-Shubha.png"><img src=https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif width="auto" height=100></p>
 
 <div align='center'>
 I am mainly focused on developing responsive UI adapting industry best practices and build solutions.
@@ -35,7 +35,7 @@ I am mainly focused on developing responsive UI adapting industry best practices
 				Framework
 			</td>
 			<td style="text-align: center; height: 40px; background-color: #fff;">
-				<img src="https://upload.wikimedia.org/wikipedia/en/2/22/Logo_jasmine.svg" title='Jasmine' alt="Jasmine" width="auto" height="40"/>&nbsp;
+				<img src="https://upload.wikimedia.org/wikipedia/en/2/22/Logo_jasmine.svg" title='Jasmine' alt="Jasmine" width="auto" height="40"/>&nbsp;<img src="https://avatars.githubusercontent.com/u/3284117?s=200&v=4" title='Karma' alt="Karma" width="auto" height="40"/>
 			</td>
 		</tr>
     <tr>
