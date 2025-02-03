@@ -93,8 +93,8 @@ I am mainly focused on developing responsive UI adapting industry best practices
 </div>
 <div>
 <h3> 🗂️ Top Repositories </h3>
-<a href="https://github.com/shubha-shree-r/Basic-UI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shubha-shree-r&repo=Basic-UI&theme=codeSTACKr" />
+<a href="https://github.com/shubha-shree-r/recipe-book">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shubha-shree-r&repo=recipe-book&theme=codeSTACKr" />
 </a>
 </div>
 
