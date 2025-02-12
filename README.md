@@ -18,7 +18,7 @@ I am mainly focused on developing responsive UI adapting industry best practices
 				Language
 			</td>
 			<td style="text-align: center; height: 40px; background-color: #fff;">
-				<img width="auto" height="40" title="Java" src='https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg' alt="Java">&nbsp&nbsp;
+				<img width="auto" height="50" title="Java" src='https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg' alt="Java">&nbsp&nbsp;
 				<img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' title='JavaScript' height='40' width='auto' alt="JavaScript">&nbsp&nbsp;<img src='https://upload.wikimedia.org/wikipedia/commons/f/f5/Typescript.svg' title='TypeScript' height='40' width='auto' alt="TypeScript">&nbsp&nbsp;<img src='https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg' title='HTML5' height='40' width='auto' alt="HTML5"><img src='https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg' title='CSS' height='40' width='auto' alt="CSS">
 			</td>
 		</tr>
@@ -68,7 +68,7 @@ I am mainly focused on developing responsive UI adapting industry best practices
 				Tool
 			</td>
 			<td style="text-align: center; height: 40px; background-color: #fff;">
-				<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" title='VS Code' width="auto" height="40"/>&nbsp&nbsp;<img src="https://avatars.githubusercontent.com/u/10251060?s=200&v=4" title='Postman' width="auto" height="40"/>
+				<img width="auto" height="40" title='IntelliJ IDEA' src='https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg'/>&nbsp&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" title='VS Code' width="auto" height="40"/>&nbsp&nbsp;<img src="https://avatars.githubusercontent.com/u/10251060?s=200&v=4" title='Postman' width="auto" height="40"/>
 			</td>
 		</tr>
  <tr>
