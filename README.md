@@ -18,6 +18,7 @@ I am mainly focused on developing responsive UI adapting industry best practices
 				Language
 			</td>
 			<td style="text-align: center; height: 40px; background-color: #fff;">
+				<img width="auto" height="40" title="Java" src='https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg' alt="Java">&nbsp&nbsp;
 				<img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' title='JavaScript' height='40' width='auto' alt="JavaScript">&nbsp&nbsp;<img src='https://upload.wikimedia.org/wikipedia/commons/f/f5/Typescript.svg' title='TypeScript' height='40' width='auto' alt="TypeScript">&nbsp&nbsp;<img src='https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg' title='HTML5' height='40' width='auto' alt="HTML5"><img src='https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg' title='CSS' height='40' width='auto' alt="CSS">
 			</td>
 		</tr>
@@ -36,6 +37,14 @@ I am mainly focused on developing responsive UI adapting industry best practices
 			</td>
 			<td style="text-align: center; height: 40px; background-color: #fff;">
 				<img src="https://upload.wikimedia.org/wikipedia/en/2/22/Logo_jasmine.svg" title='Jasmine' alt="Jasmine" width="auto" height="40"/>&nbsp;<img src="https://avatars.githubusercontent.com/u/3284117?s=200&v=4" title='Karma' alt="Karma" width="auto" height="40"/>
+			</td>
+		</tr>
+		 <tr>
+      <td>
+				DevOps
+			</td>
+			<td style="text-align: center; height: 40px; background-color: #fff;">
+				<img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" title="Docker" width='auto' height="40"/>&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" title="Kubernetes" width='auto' height="40"/>&nbsp;<img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" title="GitHub Actions" width='auto' height="40"/>
 			</td>
 		</tr>
     <tr>
