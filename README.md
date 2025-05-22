@@ -44,7 +44,7 @@ I am mainly focused on developing responsive UI adapting industry best practices
 				DevOps
 			</td>
 			<td style="text-align: center; height: 40px; background-color: #fff;">
-				<img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" title="Docker" width='auto' height="40"/>&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" title="Kubernetes" width='auto' height="40"/>&nbsp;<img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" title="GitHub Actions" width='auto' height="40"/>
+				<img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg"  title="Jenkins" width='auto' height="50"/>&nbsp;<img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" title="Docker" width='auto' height="40"/>&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" title="Kubernetes" width='auto' height="40"/>&nbsp;<img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" title="GitHub Actions" width='auto' height="40"/>
 			</td>
 		</tr>
     <tr>
