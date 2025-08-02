@@ -6,8 +6,8 @@ I am mainly focused on developing responsive UI adapting industry best practices
 </br>
 <div>
 <h3> 📚 Tech Stack </h3>
-	<div style="width: 100%; display: flex; justify-content: center;">
-<table style="width: 100%; background-color: #fff; text-align: center;">
+	<div style="width: 100%;" align="center">
+<table style="width: 80%; background-color: #fff;">
 <!--   <thead>
 		<tr>
 			<th colspan=2> Tech Stack <img width="auto" height="40" src='https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg' ></th>
