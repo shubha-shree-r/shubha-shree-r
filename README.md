@@ -6,7 +6,7 @@ I am mainly focused on developing responsive UI adapting industry best practices
 </br>
 <div>
 <h3> 📚 Tech Stack </h3>
-<table  align="center" style="background-color: #fff;">
+<table  align="center" style="background-color: #fff;" width="80%">
 <!--   <thead>
 		<tr>
 			<th colspan=2> Tech Stack <img width="auto" height="40" src='https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg' ></th>
