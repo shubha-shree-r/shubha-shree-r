@@ -28,7 +28,7 @@ I am mainly focused on developing responsive UI adapting industry best practices
 				Front-End
 			</td>
 			<td style="text-align: center; height: 40px; background-color: #fff;">
-				<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Angular_gradient_logo.png/640px-Angular_gradient_logo.png" title="Angular" width='auto' height="40"/>
+				<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Angular_logo_%282023%29.svg/1280px-Angular_logo_%282023%29.svg.png?20250402055204" title="Angular" width='auto' height="40"/>
 				<img src="https://upload.wikimedia.org/wikipedia/commons/3/30/React_Logo_SVG.svg" title='React' width='auto' height="40"/>
 			</td>
 		</tr>
